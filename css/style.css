@@ -183,7 +183,7 @@ body {
 }
 
 .main-picture.woman {
-  background-image: url("../images/woman.jpg");
+  background-image: url("../images/About.webp");
   padding: 0;
   margin-top: 24px;
   margin-left: 24px;
@@ -707,7 +707,7 @@ section.bl-expand .bl-icon-close {
 }
 
 .bl-main>section.topleft.woman {
-  background-image: url('../images/woman.jpg');
+  background-image: url('../images/About.webp');
 }
 
 .bl-main>section.topleft:before {
